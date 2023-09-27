@@ -17,15 +17,15 @@ export default function Home() {
 
       <About />
 
-      {/* <Feature /> */}
+      <Feature />
 
-      <Feat />
+      {/* <Feat /> */}
 
       <FeatureExt />
 
       <ComingSoon />
 
-      <Team />
+      {/* <Team /> */}
 
       <Footer />
     </>

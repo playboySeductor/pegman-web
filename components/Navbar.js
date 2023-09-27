@@ -60,14 +60,14 @@ const Navbar = () => {
           Home
         </Link>
         <Link href="#about" className="text-white">
-          About
+          Mission
         </Link>
         <Link href="#feature" className="text-white">
           Features
         </Link>
-        <Link href="#team" className="text-white">
+        {/* <Link href="#team" className="text-white">
           Team
-        </Link>
+        </Link> */}
         <Link href="#coming-soon" className="text-white">
           Download
         </Link>

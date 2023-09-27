@@ -20,9 +20,9 @@ const Footer = () => {
         <Link href="#coming-soon" className="text-base font-thin">
           Download
         </Link>
-        <Link href="#team" className="text-base font-thin">
+        {/* <Link href="#team" className="text-base font-thin">
           Team
-        </Link>
+        </Link> */}
         <p className="text-sm font-thin pt-8 hidden sm:inline">
           Copyright ©2023 PEGMAN
         </p>
